@@ -3,7 +3,7 @@ Find discrepancies between records loaded into database and customer files and e
 
 Check for correct billing method bill correct claims only and email database fixes to supervisor.py
 
-Check W-9 data and email resolutions to actors.py
+Check payment W-9 data issues and email resolutions to employees.py
 
 Email to specific user only.py
 

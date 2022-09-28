@@ -132,4 +132,3 @@ pm_sk accounts need new description(s):
         if os.path.basename(f) != 'facilitypayto_zip_{}.sql'.format(md):
             os.remove(f) 
 
-

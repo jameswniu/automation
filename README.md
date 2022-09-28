@@ -1,13 +1,13 @@
 # Scripts for Automation
 Find discrepancies between records loaded into database and customer files and email to supervisor.py
 
+Allow automatic backup of database tables.py
+
 Check for correct billing method bill correct claims only and email database fixes to supervisor.py
 
 Check payment W-9 data issues and email resolutions to employees.py
 
 Email to specific user only.py
-
-Script allowing automatic backup database tables.py
 
 Verify and email revised data sets to supervisor.py
 

@@ -29,4 +29,3 @@ backup_business_analysis('jopari_claim_alerts')
 
 backup_business_analysis('analyst_shadow_bills')
 
-

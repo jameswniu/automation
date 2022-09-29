@@ -1,6 +1,8 @@
 # Scripts for Automation
 Find discrepancies between records loaded into database and customer files and email to supervisor.py
 
+Allow automatically sending emails through smtp.py
+
 Allow automatic backup of database tables.py
 
 Check for correct billing method bill correct claims only and email database fixes to supervisor.py
@@ -10,8 +12,6 @@ Check payment W-9 data issues and email resolutions to employees.py
 Email to specific user only.py
 
 Verify and email revised data sets to supervisor.py
-
-Written module allowing automating of emails.py
 
 Add missing ICD code descriptions through API and convert ICD-9 to ICD-10 codes.py
 

@@ -12,7 +12,7 @@ from paramiko import SSHClient
 from scp import SCPClient
 from usps import USPSApi, Address
 
-from automation__written_module_allowing_automating_of_emails import automail
+from automation__allow_automatically_sending_emails_through_SMTP import automail
 from config import user_db, passwd_db
 
 

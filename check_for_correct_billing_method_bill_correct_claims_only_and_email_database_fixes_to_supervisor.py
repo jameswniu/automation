@@ -10,7 +10,7 @@ from glob import glob
 
 from datetime import datetime as dt, timedelta
 
-from automation__written_module_allowing_automating_of_emails import automail
+from automation__allow_automatically_sending_emails_through_SMTP import automail
 
 
 pwd = os.getcwd()

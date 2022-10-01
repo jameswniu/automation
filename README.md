@@ -5,7 +5,7 @@ Add missing ICD code descriptions through API and convert ICD-9 to ICD-10 codes.
 
 Allow automatic backup of database tables.py
 
-Allow automatically sending emails through smtp.py
+Allow automatically sending emails through SMTP.py
 
 Allow automation of customized emails to resolve common issues.py
 

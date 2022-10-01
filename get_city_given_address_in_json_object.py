@@ -178,8 +178,8 @@ if b == c == p != 0:    # updated addr eq total pending eq 837P not zero
         ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
         ssh.load_system_host_keys()
         ssh.connect(hostname='revproc01.revintel.net',
-                    username='james.niu',
-                    password='Cw1874567.,')
+                    username=user_db,
+                    password=passwd_db)
 
         # SCPCLient takes a paramiko transport as its only argument
         scp = SCPClient(ssh.get_transport())
